@@ -19,3 +19,7 @@ This is the link for the documentation: [Click me, I am the link for this projec
 * TagCloud (For the floating word cloud)
 * Bootstrap (For icons and css for responsiveness)
 * Wikipedia (For the information)
+
+### Visit our website
+You can visit our website on:
+https://purahan.com/projects/Honoring-Impactful-Innovators/
